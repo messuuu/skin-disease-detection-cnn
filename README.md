@@ -1,4 +1,6 @@
-# Skin Disease Detection using Deep Learning (CNN)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12+-orange.svg)](https://www.tensorflow.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)# Skin Disease Detection using Deep Learning (CNN)
 
 Classifying dermoscopic skin lesion images into 9 disease categories using a custom Convolutional Neural Network, trained on the ISIC (International Skin Imaging Collaboration) dataset.
 
